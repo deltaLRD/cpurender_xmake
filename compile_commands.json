@@ -1,0 +1,11 @@
+[
+{
+  "directory": "D:\\xmake_proj\\softrenderer",
+  "arguments": ["D:\\mingw64\\bin\\clang-cl.exe", "-c", "-O2", "-Iinclude", "/EHsc", "-IC:\\Users\\83912\\AppData\\Local\\.xmake\\packages\\f\\fmt\\9.1.0\\59c275f013564d489eb89f637c5837e9\\include", "-IC:\\Users\\83912\\AppData\\Local\\.xmake\\packages\\t\\tinyobjloader\\v2.0.0rc10\\02336ac14d9544ed9dd271202cb64004\\include", "-IC:\\Users\\83912\\AppData\\Local\\.xmake\\packages\\e\\eigen\\3.4.0\\1af8f25c61b04e19afd2699bba8d04c0\\include", "-IC:\\Users\\83912\\AppData\\Local\\.xmake\\packages\\e\\eigen\\3.4.0\\1af8f25c61b04e19afd2699bba8d04c0\\include\\eigen3", "-IC:\\Users\\83912\\AppData\\Local\\.xmake\\packages\\g\\gtest\\1.12.1\\29f1e5dd3d234573b4cdbfdcabf882d9\\include", "-DNDEBUG", "-Fod:\\xmake_proj\\softrenderer\\build\\.objs\\test\\windows\\x64\\release\\test\\test.cpp.obj", "test\\test.cpp"],
+  "file": "test\\test.cpp"
+},
+{
+  "directory": "D:\\xmake_proj\\softrenderer",
+  "arguments": ["D:\\mingw64\\bin\\clang-cl.exe", "-c", "-O2", "-Iinclude", "/EHsc", "-IC:\\Users\\83912\\AppData\\Local\\.xmake\\packages\\f\\fmt\\9.1.0\\59c275f013564d489eb89f637c5837e9\\include", "-IC:\\Users\\83912\\AppData\\Local\\.xmake\\packages\\t\\tinyobjloader\\v2.0.0rc10\\02336ac14d9544ed9dd271202cb64004\\include", "-IC:\\Users\\83912\\AppData\\Local\\.xmake\\packages\\e\\eigen\\3.4.0\\1af8f25c61b04e19afd2699bba8d04c0\\include", "-IC:\\Users\\83912\\AppData\\Local\\.xmake\\packages\\e\\eigen\\3.4.0\\1af8f25c61b04e19afd2699bba8d04c0\\include\\eigen3", "-DNDEBUG", "-Fod:\\xmake_proj\\softrenderer\\build\\.objs\\softrenderer\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+}]
