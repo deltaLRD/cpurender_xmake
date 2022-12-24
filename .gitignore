@@ -2,6 +2,12 @@
 .xmake/
 build/
 
+# vscode file
+.vscode/
+
+# clangd file
+.cache/
+
 # MacOS Cache
 .DS_Store
 
